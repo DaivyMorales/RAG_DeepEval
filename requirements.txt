@@ -1,0 +1,6 @@
+llama-index
+llama-index-readers-file
+llama-index-llms-openai-like
+python-dotenv
+deepeval
+typesafe-sdk

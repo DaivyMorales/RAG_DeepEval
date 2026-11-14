@@ -1,0 +1,70 @@
+[
+  {
+    "input": "¿Cuánto cuesta la hamburguesa en combo?",
+    "expected_output": "La hamburguesa en combo cuesta $35.000 e incluye papas y gaseosa."
+  },
+  {
+    "input": "Cuanto cuestan los Dorilocos con solo una proteina?",
+    "expected_output": "Los Dorilocos con una proteína cuestan $15.000."
+  },
+  {
+    "input": "¿Cuánto vale el Perro Tacabrones solo, sin combo?",
+    "expected_output": "El Perro Tacabrones solo cuesta $22.000."
+  },
+  {
+    "input": "¿Qué trae el combo del Perro Tacabrones y cuánto cuesta?",
+    "expected_output": "El combo del Perro Tacabrones cuesta $31.000 e incluye papas a la francesa y jugo."
+  },
+  {
+    "input": "¿Qué incluye la torta mexicana en combo y cuál es su precio?",
+    "expected_output": "La torta mexicana en combo cuesta $32.000 e incluye papas y jugo."
+  },
+  {
+    "input": "¿De qué es el taco al pastor?",
+    "expected_output": "El taco al pastor lleva carne de cerdo, piña, guacamole y pico de gallo."
+  },
+  {
+    "input": "¿Cuál es la diferencia entre el taco de birria y el de quesa birria?",
+    "expected_output": "Los dos llevan carne de res, guacamole y pico de gallo; el de quesa birria además trae queso. El de birria cuesta $8.000 y el de quesa birria $9.000."
+  },
+  {
+    "input": "¿Cuánto cuesta una orden de 3 tacos con queso?",
+    "expected_output": "La orden de 3 tacos con queso cuesta $26.000."
+  },
+  {
+    "input": "¿Qué lleva el Birramen y cuánto vale?",
+    "expected_output": "El Birramen lleva caldo de birria, pasta ramen, queso, carne de birria, cebolla y cilantro, y cuesta $23.000."
+  },
+  {
+    "input": "¿Cuánto cuesta la quesadilla con costra?",
+    "expected_output": "La quesadilla con costra cuesta $33.000."
+  },
+  {
+    "input": "¿El burrito trae arroz? ¿Y cuánto cuesta sin costra?",
+    "expected_output": "Sí, el burrito trae arroz. Sin costra cuesta $29.000."
+  },
+  {
+    "input": "¿Cuánto cuestan los Dorilocos familiares?",
+    "expected_output": "Los Dorilocos familiares cuestan $45.000."
+  },
+  {
+    "input": "¿Qué sabores de limonada tienen y a qué precio?",
+    "expected_output": "Las limonadas cuestan $9.000 y vienen en cerezada, natural, coco, mango biche o hierbabuena."
+  },
+  {
+    "input": "¿Cuánto vale un jugo natural en leche y qué sabores hay?",
+    "expected_output": "El jugo natural en leche cuesta $9.000. Los sabores son mango, maracuyá, guanábana, piña, fresa, mora, frutos rojos y frutos amarillos."
+  },
+  {
+    "input": "¿Cuánto cuesta agregar una proteína extra y cuáles puedo escoger?",
+    "expected_output": "Cada adición de proteína cuesta $5.000. Las opciones son chunchullo, birria, al pastor, lengua, polluelo o chicharrón."
+  },
+  {
+    "input": "Si pido dos hamburguesas en combo y una horchata, ¿cuánto pago en total?",
+    "expected_output": "En total son $82.000: dos hamburguesas en combo a $35.000 cada una ($70.000) más una horchata de $12.000."
+  },
+  {
+    "input": "¿Tienen pizza?",
+    "expected_output": "No, la pizza no aparece en el menú de Ta Cabrones."
+  }
+]

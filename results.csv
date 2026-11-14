@@ -1,0 +1,24 @@
+item,expected,bot_answer,result
+hamburguesa,sí,sí,TP
+nachos,sí,sí,TP
+Birramen,sí,sí,TP
+burrito,sí,sí,TP
+quesadilla,sí,sí,TP
+torta mexicana,sí,sí,TP
+Dorilocos,sí,sí,TP
+taco de lengua,sí,sí,TP
+taco al pastor,sí,sí,TP
+horchata,sí,sí,TP
+agua de jamaica,sí,sí,TP
+limonada de coco,sí,sí,TP
+jugo de mora,sí,sí,TP
+agua con gas,sí,sí,TP
+pizza,no,no,TN
+sushi,no,no,TN
+tacos de pescado,no,no,TN
+enchiladas,no,no,TN
+jugo de naranja,no,no,TN
+ensalada César,no,no,TN
+Birria en Caldo,sí,sí,TP
+Hot Dog,sí,sí,TP
+Cerveza,sí,sí,TP
